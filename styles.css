@@ -57,8 +57,8 @@ button, select, input { border-radius: 8px; }
 .hero h1 {
   margin: 12px auto 14px;
 }
-.subtitle { max-width: 860px; margin: 0 auto; color: #d9ebe6; font-size: clamp(1.05rem, 2.2vw, 1.35rem); }
-.authors { display: flex; flex-wrap: wrap; gap: 10px 24px; justify-content: center; margin-top: 28px; font-weight: 700; }
+.subtitle { max-width: 1200px; margin: 0 auto; color: #d9ebe6; font-size: clamp(0.9rem, 1.7vw, 1.1rem); }
+.authors { display: flex; flex-wrap: wrap; gap: 10px 24px; justify-content: center; margin-top: 28px; font-weight: 700; font-size: 1.2rem; }
 .authors a { color: #bfeade; text-decoration-thickness: 1px; text-underline-offset: 4px; }
 .affiliation { margin: 8px 0 0; color: #afc9c2; }
 .project-links { display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-top: 30px; }
